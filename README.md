@@ -37,7 +37,8 @@ It then displays the entered information along with its Python **data type** and
 ### 📸 Program Output
 [clicl below link for output screenshot]
 
-(https://github.com/prathameshjadav777/python/blob/main/Screenshot%202026-08-12%20070306.png)
+<img width="722" height="370" alt="Screenshot 2026-08-12 070306" src="https://github.com/user-attachments/assets/8dc48e8b-5e97-4b2c-b80a-fa19d2757c13" />
+
 ---
 
 ## 🎥 Video Demonstration
