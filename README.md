@@ -45,7 +45,7 @@ It then displays the entered information along with its Python **data type** and
 ### ▶️ Project Demo
 [click below link for demo video]
 
-("C:\Users\ASUS Vivobook\Videos\2026-08-12 06-34-54.mp4")
+(https://github.com/prathameshjadav777/python/blob/main/2026-08-12%2009-34-13.mp4)
 
 ## 🛠️ Technologies Used
 
