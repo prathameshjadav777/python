@@ -37,7 +37,7 @@ It then displays the entered information along with its Python **data type** and
 ### 📸 Program Output
 [clicl below link for output screenshot]
 
-("C:\Users\ASUS Vivobook\OneDrive\Pictures\Screenshots\Screenshot 2026-08-12 070306.png")
+(https://github.com/prathameshjadav777/python/blob/main/Screenshot%202026-08-12%20070306.png)
 ---
 
 ## 🎥 Video Demonstration
