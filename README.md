@@ -115,8 +115,6 @@ This project helps beginners understand basic Python concepts such as:
 ### **prathamesh**
 
 🐍 Learning Python one project at a time.
-<img width="1920" height="1080" alt="Screenshot 2026-07-03 162156" src="https://github.com/user-attachments/assets/f5b886d4-3c1d-4457-a89b-49b356e5fdfe" />
-
 
 
 
